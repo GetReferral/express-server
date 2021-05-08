@@ -9,3 +9,5 @@ npm install express
 node server.js
 ```
 After completion of all the steps,open `localhost:3000` in your browser.
+
+Hurray! We are ready to start our journey.

@@ -8,3 +8,4 @@ npm init -y
 npm install express
 node server.js
 ```
+After completion of all the steps,open `localhost:3000` in your browser.
